@@ -1,0 +1,51 @@
+# ─── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ─── Entornos virtuales ───────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+# ─── Pytest / Coverage ────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.coveragerc
+
+# ─── IDEs ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ─── Logs ─────────────────────────────────────────────────
+data/logs/
+logs/
+*.log
+
+# ─── Archivos personales ──────────────────────────────────
+learning_notes.md
+context_snapshot.md
+gui_context_snapshot.md
+
+# ─── Datos sintéticos ─────────────────────────────────────
+data/
+
+# ─── PyInstaller ──────────────────────────────────────────
+*.manifest
+dist/
+build/
+
+# ─── Sistema operativo ────────────────────────────────────
+.DS_Store
+Thumbs.db
