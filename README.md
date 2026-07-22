@@ -1,4 +1,4 @@
-# 🏦 Bank Reconciliation V2
+# 🏦 Bank Reconciliation V2.4
 
 > Bank reconciliation system built in Python, shaped by the real-world context of an SII audit accountant.
 > The program compares the bank statement against the auxiliary ledger, classifying each transaction into 3 match levels and generating 3 reports.
